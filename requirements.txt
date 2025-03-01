@@ -8,4 +8,5 @@ Flask-Mail==0.9.1
 Werkzeug==3.0.1
 reportlab==4.0.6
 gunicorn==21.2.0  # For deployment (optional)
+fpdf==1.7.2
 

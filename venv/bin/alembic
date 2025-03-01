@@ -1,4 +1,4 @@
-#!/home/lucas/dev/timesheetApp/venv/bin/python3
+#!/Users/lucas/apps/timesheetApp/venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
