@@ -1,0 +1,44 @@
+.dashboard-container {
+    width: 90%;
+    max-width: 800px;
+    margin: 30px auto;
+    text-align: center;
+  }
+  
+  .create-button {
+    padding: 10px 15px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  .create-button:hover {
+    background: #0056b3;
+  }
+  
+  .timesheet-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px 0;
+    background: #f9f9f9;
+    text-align: left;
+  }
+  
+  button {
+    padding: 8px 12px;
+    background: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #218838;
+  }
+  
